@@ -1,0 +1,13 @@
+{
+  "name": "oop",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon build/index.js",
+    "build": "tsc --watch"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22",
+    "typescript": "^5.0.4"
+  }
+}
